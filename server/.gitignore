@@ -1,0 +1,4 @@
+# files to be ignored while pushing to git are written here...
+
+/node_modules
+/.env
